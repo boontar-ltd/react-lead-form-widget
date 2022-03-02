@@ -1,5 +1,6 @@
 # Lead form widget for React JS
 > First you need to create an account with [Boontar TV](https://boontar.tv)
+[![Boontar TV - Lead Form Builder](https://boontarcloud.azureedge.net/others/react-lead-form-widget.png)](https://boontarcloud.azureedge.net/others/react-lead-form-widget.png)
 
 ## Features
  - Forms are created without code at [Boontar TV](https://boontar.tv)
