@@ -1,7 +1,7 @@
 {
   "name": "react-lead-form-widget",
   "version": "1.0.0",
-  "description": "",
+  "description": "Lead form widget for collecting requests, ratings, reviews, etc.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,24 @@
   "bugs": {
     "url": "https://github.com/boontar-ltd/react-lead-form-widget/issues"
   },
-  "homepage": "https://github.com/boontar-ltd/react-lead-form-widget#readme"
+  "homepage": "https://github.com/boontar-ltd/react-lead-form-widget#readme",
+  "keywords": [
+    "reactjs",
+    "react",
+    "lead form",
+    "leadForm",
+    "form",
+    "requests",
+    "iframe",
+    "boontar",
+    "forms",
+    "custom form",
+    "user data",
+    "inputs",
+    "form UI",
+    "inputs UI",
+    "ratings",
+    "reviews",
+    "collecting"
+  ]
 }
