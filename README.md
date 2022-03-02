@@ -1,4 +1,4 @@
-# Lead form widget for React
+# Lead form widget for React JS
 > First you need to create an account with [Boontar TV](https://boontar.tv)
 
 ## Features
