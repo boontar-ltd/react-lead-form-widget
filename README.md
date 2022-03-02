@@ -22,6 +22,10 @@ or
 ```js
 import ReactLeadForm from 'react-lead-form-widdget'
 ```
+## Available props
+| Name | Type | Default | Description |
+| ------ | ------ | ------ | ------ |
+| `getId` | `number` | `1` | Lead form unique ID at Boontar TV |
 ## Example
 ```js
 import React, { Component } from "react";
