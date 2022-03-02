@@ -3,7 +3,7 @@
 
 ## Features
  - Forms are created without code at [Boontar TV](https://boontar.tv)
- - Install the widget and start collecting applications, requests, ratings, reviews
+ - Install the widget and start collecting requests, ratings, reviews
  - Admin panel for viewing incoming requests [Boontar TV](https://boontar.tv)
  - Export requests
  - Embedded analytics
