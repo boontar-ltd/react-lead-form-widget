@@ -2,7 +2,7 @@
 > First you need to create an account with [Boontar TV](https://boontar.tv)
 
 <p align="center">
-  <img width="250" height="auto" src="https://boontarcloud.azureedge.net/others/react-widget-2.png" alt="Sublime's custom image"/>
+  <img width="250" height="auto" src="https://boontarcloud.azureedge.net/others/react-widget-3.png" alt="Sublime's custom image"/>
 </p>
 
 ## Features
