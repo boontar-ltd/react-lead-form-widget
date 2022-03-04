@@ -25,11 +25,11 @@ npm i react-lead-form-widdget --save
 ```
 Use within your application with the following line of JavaScript:
 ```js
-const ReactLeadForm = require('react-lead-form-widdget');
+const ReactLeadFormWidget = require('react-lead-form-widdget');
 ```
 or
 ```js
-import ReactLeadForm from 'react-lead-form-widdget'
+import ReactLeadFormWidget from 'react-lead-form-widdget'
 ```
 ## Available props
 | Name | Type | Default | Description |
@@ -38,11 +38,11 @@ import ReactLeadForm from 'react-lead-form-widdget'
 ## Example
 ```js
 import React, { Component } from "react";
-import ReactLeadForm from 'react-lead-form-widdget'
+import ReactLeadFormWidget from 'react-lead-form-widdget'
 
 class HelloWorld extends Component {
     render() {
-        return(<ReactLeadForm getId={1} />)
+        return(<ReactLeadFormWidget getId={1} />)
     }
 }
 ```
