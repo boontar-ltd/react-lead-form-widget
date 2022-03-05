@@ -2,7 +2,7 @@
 [![npm](https://img.shields.io/npm/v/github-buttons)](https://www.npmjs.com/package/react-terminal-logger)
 > First you need to create an account with [Boontar TV](https://boontar.tv)
 
-This module is a plug-in widget, the appearance of which can only be edited in your personal account [Boontar TV](https://boontar.tv). To be able to change the form at your discretion, we recommend using [https://github.com/boontar-ltd/react-lead-form](https://github.com/boontar-ltd/react-lead-form-widget)
+This module is a plug-in widget, the appearance of which can only be edited in your personal account [Boontar TV](https://boontar.tv). To be able to change the form at your discretion, we recommend using [https://github.com/boontar-ltd/react-lead-form](https://github.com/boontar-ltd/react-lead-form)
 
 <p align="center">
   <img width="250" height="auto" src="https://boontarcloud.azureedge.net/others/react-widget-3.png" alt="Sublime's custom image"/>
