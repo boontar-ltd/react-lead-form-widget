@@ -2,8 +2,6 @@
 [![npm](https://img.shields.io/npm/v/github-buttons)](https://www.npmjs.com/package/react-lead-form-widget)
 > First you need to create an account with [Boontar TV](https://boontar.tv)
 
-This module is a plug-in widget, the appearance of which can only be edited in your personal account [Boontar TV](https://boontar.tv). To be able to change the form at your discretion, we recommend using [https://github.com/boontar-ltd/react-lead-form](https://github.com/boontar-ltd/react-lead-form)
-
 <p align="center">
   <img width="250" height="auto" src="https://boontarcloud.azureedge.net/others/react-widget-3.png" alt="Sublime's custom image"/>
 </p>
@@ -24,15 +22,15 @@ List of incoming requests in the admin panel [Boontar TV](https://boontar.tv)
 ## Getting Started
 To install the module, run the following in the command line:
 ```bash
-npm i react-lead-form-widdget --save
+npm i react-lead-form-widget --save
 ```
 Use within your application with the following line of JavaScript:
 ```js
-const ReactLeadFormWidget = require('react-lead-form-widdget');
+const ReactLeadFormWidget = require('react-lead-form-widget');
 ```
 or
 ```js
-import ReactLeadFormWidget from 'react-lead-form-widdget'
+import ReactLeadFormWidget from 'react-lead-form-widget'
 ```
 ## Available props
 | Name | Type | Default | Description |
@@ -41,7 +39,7 @@ import ReactLeadFormWidget from 'react-lead-form-widdget'
 ## Example
 ```js
 import React, { Component } from "react";
-import ReactLeadFormWidget from 'react-lead-form-widdget'
+import ReactLeadFormWidget from 'react-lead-form-widget'
 
 class HelloWorld extends Component {
     render() {
@@ -49,3 +47,5 @@ class HelloWorld extends Component {
     }
 }
 ```
+
+This module is a plug-in widget, the appearance of which can only be edited in your personal account [Boontar TV](https://boontar.tv). To be able to change the form at your discretion, we recommend using [https://github.com/boontar-ltd/react-lead-form](https://github.com/boontar-ltd/react-lead-form)
